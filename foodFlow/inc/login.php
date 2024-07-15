@@ -2,7 +2,7 @@
     <h3 class="text-center">Bienvenido de nuevo </i></h3>
     <div class="col-md-12">
         <div class="form-group">
-            <label for="usuario">Nombre de usuario</label>
+            <label for="usuario">Nombre de Usuario</label>
             <input placeholder="Nombre de usuario" type="text" id="usuario" class="form-control">
         </div>
     </div>
